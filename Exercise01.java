@@ -26,6 +26,13 @@ public class ExerciseOne {
     // Exercise Four
     private boolean isStringPalindrome(String word) {
         // Complete this method to deermine if the given word is a palindrome
-        return false;
+        
+        String retrievedWord = reverseString(word);
+        
+        if(word == retrievedWord){
+            return true;
+        }else{
+            return false;
+        }
     }
 }
