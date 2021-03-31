@@ -6,3 +6,4 @@ Update this README to include your team name and team members. Don't forget to r
 _Team:_ <br>
 Patrik Bolander <br>
 Ethan Goh <br>
+Mahir Chand <br>
